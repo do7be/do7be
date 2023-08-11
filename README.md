@@ -1,4 +1,4 @@
-### 😉
+### My IQ is 3 😉
 
 ```ts
 console.log(`Hi! I'm ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+(((!![]+!![]+!![])*(!![]+!![]))+!![])+[[]+{}][+[]][!![]+!![]]+(!![]+[])[!![]+!![]+!![]]}!`)
@@ -84,3 +84,13 @@ console.log(`Hi! I'm ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+(((!![]+!
 * https://github.com/quarantin/zomboid-spear-traps/pull/1
 * https://github.com/asaokamei/vue2-dynamic-modal/pull/1
 * https://github.com/divan/txqr/pull/5
+  
+### Packages on npm
+
+* https://www.npmjs.com/package/node-giff
+* https://www.npmjs.com/package/node-bkup
+
+### MOD
+
+* https://steamcommunity.com/sharedfiles/filedetails/?id=2655496173
+* https://steamcommunity.com/sharedfiles/filedetails/?id=2647166812
