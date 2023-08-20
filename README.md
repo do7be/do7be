@@ -19,7 +19,7 @@ console.log(`Hi! I'm ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+(((!![]+!
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=do7be&1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=do7be&2)
 
 ### Skill Set 🍅
 
