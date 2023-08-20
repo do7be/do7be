@@ -58,6 +58,10 @@ console.log(`Hi! I'm ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+(((!![]+!
 * https://github.com/asaokamei/vue2-dynamic-modal/pull/1
 * https://github.com/divan/txqr/pull/5
   
+### Crates on crates.io
+
+* https://crates.io/crates/bkup
+
 ### Packages on npm  🙆‍♀️
 
 * https://www.npmjs.com/package/node-giff
