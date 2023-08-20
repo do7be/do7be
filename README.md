@@ -1,9 +1,3 @@
-### My IQ is 3 😉
-
-```ts
-console.log(`Hi! I'm ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+(((!![]+!![]+!![])*(!![]+!![]))+!![])+[[]+{}][+[]][!![]+!![]]+(!![]+[])[!![]+!![]+!![]]}!`)
-```
-
 <p align="left">
   <a href="https://github.com/do7be/do7be/">
     <img src="https://komarev.com/ghpvc/?username=do7be" alt="do7be" />
@@ -19,9 +13,15 @@ console.log(`Hi! I'm ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+(((!![]+!
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=do7be&2)
+## My IQ is 3 😉
 
-### Skill Set 🍅
+```ts
+console.log(`Hi! I'm ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+(((!![]+!![]+!![])*(!![]+!![]))+!![])+[[]+{}][+[]][!![]+!![]]+(!![]+[])[!![]+!![]+!![]]}!`)
+```
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=do7be&langs_count=8&layout=donut&exclude_repo=storybook,react-tween-state,tower-of-babel,javascript-mocha,common-tags,redux-tutorial)
+
+## Skill Set 🍅
 
 **Languages**
 
@@ -50,7 +50,7 @@ console.log(`Hi! I'm ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+(((!![]+!
 |--|--|--|
 
 
-### OSS PRs 🌵
+## OSS PRs 🌵
 
 * https://github.com/storybookjs/storybook/pull/4336
 * https://github.com/DefinitelyTyped/DefinitelyTyped/pull/50112
@@ -60,16 +60,16 @@ console.log(`Hi! I'm ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+(((!![]+!
 * https://github.com/asaokamei/vue2-dynamic-modal/pull/1
 * https://github.com/divan/txqr/pull/5
   
-### Crates on crates.io 📦
+## Crates on crates.io 📦
 
 * https://crates.io/crates/bkup
 
-### Packages on npm  🙆‍♀️
+## Packages on npm  🙆‍♀️
 
 * https://www.npmjs.com/package/node-giff
 * https://www.npmjs.com/package/node-bkup
 
-### Games 😎
+## Games 😎
 
 * https://unityroom.com/games/navi-tsumugi
 * https://unityroom.com/games/okaneman
