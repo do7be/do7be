@@ -19,7 +19,8 @@
 console.log(`Hi! I'm ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+(((!![]+!![]+!![])*(!![]+!![]))+!![])+[[]+{}][+[]][!![]+!![]]+(!![]+[])[!![]+!![]+!![]]}!`)
 ```
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=do7be&langs_count=8&layout=donut&exclude_repo=storybook,react-tween-state,tower-of-babel,javascript-mocha,common-tags,redux-tutorial)
+![](https://github-readme-stats-clone-do7be.vercel.app/api/?username=do7be&theme=dracula)|![](https://github-readme-stats-clone-do7be.vercel.app/api/top-langs/?username=do7be&theme=dracula&langs_count=8&layout=compact&hide=html,shell,powershell&exclude_repo=isucon3,isucon4,isucon_office,isucon_internal,isucon11,isucon12q,ISUCON_private_rensyu)
+|--|--|
 
 ## Skill Set 🍅
 
