@@ -1,5 +1,8 @@
 <p align="left">
   <a href="https://github.com/do7be/do7be/">
+    <img src="https://img.shields.io/badge/do7be-IQ3-red.svg" />
+  </a>
+  <a href="https://github.com/do7be/do7be/">
     <img src="https://komarev.com/ghpvc/?username=do7be" alt="do7be" />
   </a>
   <a href="https://github.com/do7be">
