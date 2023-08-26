@@ -24,11 +24,30 @@ jobs:
           name: stats
           path: grs
 
+  languages:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Languages Card
+    steps:
+      - uses: actions/checkout@v3
+        name: Check out current commit
+      - uses: suisei-cn/actions-download-file@v1.3.0
+        id: languages
+        name: Download the languages file
+        with:
+          url: "https://github-readme-stats-clone-do7be.vercel.app/api/top-langs/?username=do7be&theme=dracula&langs_count=8&layout=compact&hide=html,shell,powershell&exclude_repo=isucon3,isucon4,isucon_office,isucon_internal,isucon11,isucon12q,ISUCON_private_rensyu" # Put your own vercel instance URL here
+          target: grs
+          filename: languages.svg # Need to have the file name prepared as svg
+      - uses: actions/upload-artifact@master
+        with:
+          name: languages
+          path: grs
+
   push:
     permissions: write-all
     runs-on: ubuntu-latest
     name: Push
-    needs: [stats] # Put any jobs (card) needed here before we push
+    needs: [stats, languages] # Put any jobs (card) needed here before we push
     steps:
       - uses: actions/download-artifact@master
         with:
