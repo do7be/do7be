@@ -53,6 +53,10 @@ jobs:
         with:
           name: stats
           path: grs
+      - uses: actions/download-artifact@master
+        with:
+          name: languages
+          path: grs
       - name: Push
         uses: crazy-max/ghaction-github-pages@v3
         with:
