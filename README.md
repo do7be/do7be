@@ -36,8 +36,8 @@
 
 **Infrastructure**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="GCP" alt="GCP" width="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">|<img title="Firebase" alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-|--|--|--|
+<img title="Vercel" alt="Vercel" width="40px" src="https://simpleicons.org/icons/vercel.svg">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="GCP" alt="GCP" width="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">|<img title="Firebase" alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+|--|--|--|--|
 
 **Databases**
 
