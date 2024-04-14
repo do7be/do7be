@@ -58,6 +58,7 @@ console.log(`Hi! My name is ${[[][[]]+[]][+[]][!![]+!![]]+[[]+{}][+[]][+!![]]+((
 
 ## OSS PRs 🌵
 
+* https://github.com/pmndrs/jotai/pull/2505
 * https://github.com/storybookjs/storybook/pull/4336
 * https://github.com/DefinitelyTyped/DefinitelyTyped/pull/50112
 * https://github.com/DefinitelyTyped/DefinitelyTyped/pull/33431
