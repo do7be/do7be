@@ -8,12 +8,6 @@
   <a href="https://github.com/do7be">
     <img height="20" src="https://img.shields.io/github/followers/do7be?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/do7be">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/do7be/posts.svg" />
-  </a>
-  <//qiita.com/do7be">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/do7be/contributions.svg" />
-  </a>
 </p>
 
 ## My name is ... ❓
